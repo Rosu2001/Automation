@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-12T20:30:43 IST" name="Default suite" finished-at="2024-07-12T20:30:43 IST" duration-ms="63">
+    <groups>
+    </groups>
+    <test started-at="2024-07-12T20:30:43 IST" name="Default test" finished-at="2024-07-12T20:30:43 IST" duration-ms="63">
+      <class name="TestNG01RunningTest">
+        <test-method is-config="true" signature="before()[pri:0, instance:TestNG01RunningTest@176b3f44]" started-at="2024-07-12T20:30:43 IST" name="before" finished-at="2024-07-12T20:30:43 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="first()[pri:0, instance:TestNG01RunningTest@176b3f44]" started-at="2024-07-12T20:30:43 IST" name="first" finished-at="2024-07-12T20:30:43 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method signature="second()[pri:0, instance:TestNG01RunningTest@176b3f44]" started-at="2024-07-12T20:30:43 IST" name="second" finished-at="2024-07-12T20:30:43 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- second -->
+      </class> <!-- TestNG01RunningTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
